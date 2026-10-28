@@ -9,4 +9,5 @@
 #
 # - id:       j-2026-other
 #   location: ./papers/j-2026-other
-[]
+- id: alpha-2026-tidal-flats
+  location: ./papers/alpha-2026-tidal-flats
