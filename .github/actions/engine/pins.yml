@@ -11,4 +11,4 @@ min_engine_version: v0.4.0-dev.1
 
 # The engine this repository's jobs with no paper of their own run (the website, posting
 # checks and previews); each paper pins its own in its myst.yml. oak upgrade moves both.
-engine_version: v0.4.0-dev.1
+engine_version: v0.4.0-dev.2
