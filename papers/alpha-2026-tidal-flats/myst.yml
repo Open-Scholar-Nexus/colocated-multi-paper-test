@@ -6,8 +6,19 @@ project:
   # A fresh id, unique in this journal. The build rejects this placeholder.
   # https://scholar.nexus/oaktree-sapling/guide/journal-yml#id-pattern
   id: alpha-2026-tidal-flats
-  title: CHANGE-ME (your paper title)
+  title: Sediment transport on tidal flats
   github: https://github.com/Open-Scholar-Nexus/colocated-multi-paper-test
+  authors:
+    - name: Josiah Carberry
+      orcid: 0000-0002-1825-0097
+      affiliations:
+        - Brown University
+      roles:
+        - conceptualization
+        - writing - original draft
+  keywords:
+    - tidal flats
+    - sediment
   # authors:
   #   - name: Ada Lovelace
   #     orcid: 0000-0000-0000-0000
